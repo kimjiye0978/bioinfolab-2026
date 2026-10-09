@@ -1,0 +1,6 @@
+data/sample.fasta
+data/seqs2.fasta
+data/seqs.fasta
+data/sample.fasta 2
+data/seqs2.fasta 3
+data/seqs.fasta 3
