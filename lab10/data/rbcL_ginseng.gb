@@ -1,0 +1,75 @@
+LOCUS       PQU50250                1437 bp    DNA     linear   PLN 30-MAY-1996
+DEFINITION  Panax quinquefolius ribulose-1,5-bisphosphate carboxylase/oxygenase
+            large subunit (rbcL) gene, chloroplast gene encoding chloroplast
+            protein, partial cds.
+ACCESSION   U50250
+VERSION     U50250.1
+KEYWORDS    .
+SOURCE      chloroplast Panax quinquefolius
+  ORGANISM  Panax quinquefolius
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; campanulids; Apiales; Araliaceae; Panax.
+REFERENCE   1  (bases 1 to 1437)
+  AUTHORS   Plunkett,G.M., Soltis,D.E. and Soltis,P.S.
+  TITLE     Higher level relationships of Apiales (Apiaceae and Araliaceae)
+            based on phylogenetic analysis of rbcL sequences
+  JOURNAL   Am. J. Bot. 83, 499-515 (1996)
+REFERENCE   2  (bases 1 to 1437)
+  AUTHORS   Plunkett,G.M. and Soltis,D.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-FEB-1996) Gregory M. Plunkett, Plant Biology,
+            University of Illinois, 505 South Goodwin Avenue, Urbana, IL 61801,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..1437
+                     /organism="Panax quinquefolius"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:44588"
+                     /note="angiosperm (dicot)"
+     gene            1..1437
+                     /gene="rbcL"
+     CDS             <1..1437
+                     /gene="rbcL"
+                     /note="RUBISCO"
+                     /codon_start=1
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AAB01130.1"
+                     /translation="XXXXXXTKASVGFKAGVKDYKLTXYTPDYDPKDTDILAAFRVTP
+                     QPGVPAEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYKIEPVAGEETQFIAYVA
+                     YPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPVAYVKTFQGPPHGIQVERD
+                     KLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKDDENVNSQPFMRWRDRF
+                     LFCAEALYKAQAETGEIKGHYLNATAGTCEDMMKRAVFARELGVPIVMHDYITGGFTA
+                     NTTLAHYCRDNGLLLHIHRAMHAVIDRQKNHGMHFRVLAKALRMSGGDHIHSGTVVGK
+                     LEGERDITLGFVDLLRDDFIEKDRSRGIYFTQDWVSLPGVLPVASGGIHVWHMPALTE
+                     IFGDDSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREGNEIIREAAK
+                     WSPELAAACEVWKEIKFEFEAVDILDVV"
+ORIGIN      
+        1 nnnnnnnnnn nnnnnnaaac taaagcaagt gttggattca aagctggtgt taaagattac
+       61 aaattgactt nttatactcc tgactatgac cccaaagata ctgatatctt ggcagcattc
+      121 cgagtaactc ctcaacctgg agttccagct gaagaagcag gggccgcggt agctgccgaa
+      181 tcttctactg gtacatggac aactgtgtgg accgatggac ttactagcct tgatcgttac
+      241 aaagggcgat gctacaaaat agagcccgtt gctggagaag aaactcaatt tattgcttat
+      301 gtagcttacc cattagacct ttttgaagaa ggttctgtta ctaacatgtt tacttccatt
+      361 gtaggtaatg tatttgggtt caaagccctg cgtgctctac gtctggaaga tctgcgaatc
+      421 cctgttgctt atgttaaaac tttccaaggc ccgcctcatg gcatccaagt tgagagagat
+      481 aaattgaaca agtatggtcg tcccctgttg ggatgtacta ttaaacctaa attggggtta
+      541 tctgctaaaa actacggtag agcggtttat gaatgtctcc ggggtggact tgattttacc
+      601 aaagacgatg agaacgtgaa ctcacaacca tttatgcgtt ggagagatcg tttcttattt
+      661 tgtgccgaag cactttataa agcacaggct gaaacaggtg aaatcaaagg gcattacttg
+      721 aatgctactg cgggtacatg cgaagacatg atgaaaaggg ctgtatttgc cagagaattg
+      781 ggagttccta tcgtaatgca tgattacata acagggggat tcaccgcaaa tactaccttg
+      841 gctcattatt gccgagataa tggcctactt cttcacatcc accgcgcaat gcatgcagtt
+      901 attgatagac agaagaatca tggtatgcac tttcgtgtac tagctaaagc gttacgtatg
+      961 tctggtggag atcatattca ctccggtacc gtagtaggta aacttgaagg ggaaagagac
+     1021 atcactttgg gctttgttga tttactgcgt gatgatttca ttgaaaaaga tcgaagtcgc
+     1081 ggtatttatt tcacccaaga ttgggtctct ctaccaggtg ttctgcccgt ggcttcgggg
+     1141 ggtattcacg tttggcatat gcctgctctg accgagatct ttggggatga ttccgtacta
+     1201 cagttcggtg gaggaacttt aggacaccct tggggaaatg cacccggtgc cgtagctaat
+     1261 cgagtagctc tagaagcatg tgtacaagct cgtaatgagg gacgtgatct tgctcgtgaa
+     1321 ggtaatgaaa ttatccgcga ggctgctaaa tggagccctg aactagctgc tgcttgtgag
+     1381 gtatggaagg agatcaaatt tgaatttgaa gcagtggata ttttggatgt tgtgtaa
+//
+
