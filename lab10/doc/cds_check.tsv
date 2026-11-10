@@ -1,0 +1,9 @@
+file	version	organism	cds_location	translation_match
+rbcL_arabidopsis.gb	OK432498.1	Arabidopsis thaliana	CDS 없음	NA
+rbcL_fern.gb	MW620303.1	Adiantum capillus-veneris	[<0:>1308](+)	True
+rbcL_ginkgo.gb	KF221173.1	Ginkgo biloba	[<0:>1317](+)	True
+rbcL_ginseng.gb	U50250.1	Panax quinquefolius	[<0:1437](+)	True
+rbcL_liverwort.gb	LC536762.1	Marchantia polymorpha subsp. ruderalis	[<0:1399](+)	True
+rbcL_maize.gb	Z11973.1	Zea mays	[0:1431](+)	True
+rbcL_pine.gb	JQ512595.1	Pinus thunbergii	[0:1428](+)	True
+rbcL_rice.gb	L24073.1	Oryza sativa	[34:1240](+)	True
